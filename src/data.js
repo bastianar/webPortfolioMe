@@ -85,20 +85,6 @@ export const projects = [
     image: web3,
     url: "https://ecommerce-ui-cyan.vercel.app/",
   },
-  {
-    title: "Task Manager Web",
-    description: "Aplikasi web untuk mencatat dan mengatur tugas harian dengan efisien.",
-    tags: ["JavaScript", "CSS", "LocalStorage"],
-    image: project4,
-    url: "https://example.com/project-4",
-  },
-  {
-    title: "Company Profile",
-    description: "Website profil perusahaan yang responsif dan cepat dimuat.",
-    tags: ["HTML", "Tailwind", "JavaScript"],
-    image: project5,
-    url: "https://example.com/project-5",
-  },
 ];
 
 
