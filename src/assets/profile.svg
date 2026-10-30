@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9e2d6"/><stop offset="1" stop-color="#c9bba6"/></linearGradient>
+<linearGradient id="shirt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a3345"/><stop offset="1" stop-color="#161c27"/></linearGradient>
+</defs>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<circle cx="640" cy="170" r="120" fill="#fff" opacity=".25"/>
+<path d="M60 1000 C60 800 200 720 400 720 C600 720 740 800 740 1000 Z" fill="url(#shirt)"/>
+<path d="M330 700 L400 790 L470 700 L470 650 L330 650 Z" fill="#d9a77f"/>
+<ellipse cx="400" cy="440" rx="150" ry="185" fill="#e6b891"/>
+<path d="M245 420 C235 260 330 215 410 215 C500 215 570 270 555 420 C535 340 500 310 400 310 C310 310 270 345 245 420Z" fill="#2b211c"/>
+<circle cx="350" cy="450" r="9" fill="#2b211c"/><circle cx="450" cy="450" r="9" fill="#2b211c"/>
+<path d="M360 540 Q400 570 440 540" stroke="#a5654a" stroke-width="8" fill="none" stroke-linecap="round"/>
+<text x="400" y="935" text-anchor="middle" font-family="system-ui,sans-serif" font-size="30" font-weight="600" fill="#ffffff" opacity=".8">Ganti dengan fotomu</text>
+</svg>

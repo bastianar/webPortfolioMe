@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241b4a"/><stop offset="1" stop-color="#7048e8"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="1040" cy="120" r="200" fill="#fff" opacity=".06"/>
+<rect x="150" y="130" width="900" height="560" rx="26" fill="#fff"/>
+<path d="M150 156 a26 26 0 0 1 26 -26 H1024 a26 26 0 0 1 26 26 V190 H150Z" fill="#eef0f4"/>
+<circle cx="190" cy="160" r="9" fill="#ff6b6b"/><circle cx="220" cy="160" r="9" fill="#ffd43b"/><circle cx="250" cy="160" r="9" fill="#51cf66"/>
+<rect x="300" y="148" width="420" height="24" rx="12" fill="#dde1e8"/>
+<rect x="200" y="235" width="360" height="40" rx="10" fill="#7048e8"/>
+<rect x="200" y="300" width="460" height="18" rx="9" fill="#dde1e8"/>
+<rect x="200" y="334" width="400" height="18" rx="9" fill="#e8ebf0"/>
+<rect x="200" y="390" width="150" height="46" rx="23" fill="#241b4a"/>
+<rect x="705" y="235" width="290" height="200" rx="18" fill="#d0bfff"/>
+<rect x="200" y="490" width="240" height="150" rx="16" fill="#f1f3f6"/>
+<rect x="470" y="490" width="240" height="150" rx="16" fill="#f1f3f6"/>
+<rect x="740" y="490" width="255" height="150" rx="16" fill="#f1f3f6"/>
+<rect x="220" y="510" width="90" height="12" rx="6" fill="#7048e8" opacity=".7"/>
+<rect x="490" y="510" width="90" height="12" rx="6" fill="#7048e8" opacity=".7"/>
+<rect x="760" y="510" width="90" height="12" rx="6" fill="#7048e8" opacity=".7"/>
+<text x="600" y="750" text-anchor="middle" font-family="system-ui,sans-serif" font-size="30" font-weight="700" fill="#fff" opacity=".85">Company Profile · gambar contoh</text>
+</svg>
